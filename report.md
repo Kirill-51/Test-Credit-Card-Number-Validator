@@ -7,7 +7,7 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/Kirill-51/Test-Credit-Card-Number-Validator/issues/1
+* https://github.com/Kirill-51/Test-Credit-Card-Number-Validator/issues/1#issue-820750321
 
 ## Описание процесса тестирования
 
